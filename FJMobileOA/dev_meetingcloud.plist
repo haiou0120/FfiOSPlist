@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://mcloud.chinatelecom.com.cn:8081/tss/download/ipadir/fjMobileOA/fjTelecomOA_SXF_mcloud.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://mcloud.chinatelecom.com.cn:8081/tss/download/ipadir/fjMobileOA/pic/fjMobileOANew_mcloud.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://mcloud.chinatelecom.com.cn:8081/tss/download/ipadir/fjMobileOA/pic/fjMobileOANew_mcloud.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.chinatelecom.fujian.ydbgtongxunlu</string>
+				<key>bundle-version</key>
+				<string>1.00</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Apple</string>
+				<key>title</key>
+				<string>福建会议云，安装后请设置信任该软件。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://42.99.33.156:8081/downloadipatmp/TelecomMobileOA_rl.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://42.99.33.156:8081/downloadipatmp/pic/MobileOA.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://42.99.33.156:8081/downloadipatmp/pic/MobileOA.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zgdxjt.MobilePortals</string>
+				<key>bundle-version</key>
+				<string>1.15</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Apple</string>
+				<key>title</key>
+				<string>人力助手，安装提示：首次安装完打开前需要到【设置-通用-描述文件与设备管理】，找到对应的开发者证书，选择【信任】即可打开</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

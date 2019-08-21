@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://180.138.196.199:8084/apphome/iosportal/GxdxPortal2-4-3.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://180.138.196.199:8084/apphome/iosportal/57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://180.138.196.199:8084/apphome/iosportal/512.jpg
+http://180.138.196.199:8084/apphome/iosportal/512.jpg
+</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.gxdx.protal</string>
+				<key>bundle-version</key>
+				<string>2.4.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string> 手机门户</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
